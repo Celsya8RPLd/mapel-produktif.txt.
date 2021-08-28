@@ -3,7 +3,7 @@
 3.-komunikasi daring sinkron
 4.*Line
 5.-komunikasi daring Asinkron
-6. *Email
+6.*Email
 7.*Github
 8.*Git
 9.
