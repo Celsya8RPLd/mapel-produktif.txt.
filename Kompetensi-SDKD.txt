@@ -4,5 +4,5 @@
 4.*Line
 5.-komunikasi daring Asinkron
 6.*Email
-7.-Github
-8.-Git
+7.*Github
+8.*Git
