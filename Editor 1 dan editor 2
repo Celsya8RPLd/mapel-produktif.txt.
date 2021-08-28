@@ -1,4 +1,4 @@
-1.branch "editor 1" membuat perubahan isi file menjadi
+1.branch "editor 2" membuat perubahan isi file menjadi
                     Sebagai berikut : 
 Kompetensi SDKD
 a.komunikasi daring sinkron
@@ -7,7 +7,9 @@ b.komunikasi daring Asinkron
 -Email
 c.Github
 -membuat akun 
--membuat repository( file baru dan commit)
+-membuat repository
+-membuat file baru
+-membuat commit
 d.Git
-- belum
+
                   
